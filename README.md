@@ -1,12 +1,20 @@
-Hi, I’m @EmmanuelNwodo
-I'm a frontend developer who loves crafting beautiful and functional web experiences.
-I focus on building clean, responsive UIs with modern tools like React, JavaScript and Tailwind CSS
-- 🌱 I'm always learning and experimenting with new frontend tech
-- 🎯 Passionate about UI/UX, performance, and accessibility
-- 📫 Reach me at nwodoemmanuel@gmail.com
+# Hi, I’m Emmanuel Nwodo 👋
 
+I’m a Frontend Developer focused on building clean, responsive, and user-friendly web applications with React, Next.js, JavaScript, and Tailwind CSS.
 
-<!---
-EmmanuelNwodo/EmmanuelNwodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy turning ideas into polished interfaces and connecting frontend experiences to real backend services.
+
+## Tech Stack
+- React, Next.js, JavaScript
+- Tailwind CSS, HTML, CSS
+- MongoDB, Mongoose
+- Git, GitHub, Vercel
+
+## Featured Projects
+- Notes App — Full-stack CRUD app with Next.js, MongoDB, and Mongoose
+- Netflix Clone — React app with Firebase authentication and TMDB API
+- Portfolio Website — Personal portfolio showcasing my work
+
+## Contact
+- Email: nwodoemmanuel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emmanuel-nwodo-12265667/
